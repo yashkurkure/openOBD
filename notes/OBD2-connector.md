@@ -9,5 +9,8 @@ As evident from the illustration, the two types share similar OBD2 pinouts, but 
 
 To help physically distinguish between the two types of OBD2 sockets, note that the type B OBD2 connector has an interrupted groove in the middle. As a result, a type B OBD2 adapter cable will be compatible with both types A and B, while a type A will not fit into a type B socket.
 
+## OBD PIDS
+https://en.wikipedia.org/wiki/OBD-II_PIDs
+
 ## References
 * https://www.csselectronics.com/pages/obd2-explained-simple-intro
